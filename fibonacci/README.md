@@ -18,3 +18,6 @@ I worked to make all of my functions as single responsibility as possible.
 + evens -- takes in an array and returns a new array of just the even numbers
 + sum -- takes in an array and adds all the elements together
 + fibonacciEvenSum -- combines the above three methods to solve the given problem
+
+###Source
+[Project Euler](https://projecteuler.net/problem=2)
