@@ -7,7 +7,9 @@ Find the largest palindrome made from the product of two 3-digit numbers.
 
 
 ##Language/Testing
-JavaScript.  To run the Jasmine tests, open the [JavaScriptSpecRunner](../JavaScriptSpecRunner.html) file in a browser.
++ JavaScript -- To run the Jasmine tests, open the [JavaScriptSpecRunner](../JavaScriptSpecRunner.html) file in a browser.
+
++ Ruby -- Run the [RSpec File](largest_palindrome_spec.rb) file in the terminal.
 
 
 ###Source
