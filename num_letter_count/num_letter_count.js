@@ -72,7 +72,10 @@ function characterCounter(num){
   }
 
   if (length === 3) {
-    words += digitCharacters.ones[num[0]] + 'hundredand';
+    words += digitCharacters.ones[num[0]] + 'hundred';
+    if (!(num[1] === '0' && num[2] === '0')){
+      words += 'and';
+    }
     num = num.substring(num.length-2);
   }
 
@@ -90,7 +93,6 @@ function characterCounter(num){
   } 
 
   return words.length
-
 };
 
 function countAllCharacters(){

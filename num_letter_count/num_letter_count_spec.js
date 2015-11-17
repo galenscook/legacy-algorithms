@@ -41,7 +41,7 @@ describe('characterCounter', function(){
 });
 
 describe('countAllCharacters', function(){
-  xit('returns the correct number of characters 1-1000', function(){
-    expect(countAllCharacters()).toBe()
+  it('returns the cortrect number of characters 1-1000', function(){
+    expect(countAllCharacters()).toBe(21124)
   });
 })
