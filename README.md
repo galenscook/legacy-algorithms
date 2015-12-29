@@ -8,3 +8,4 @@ A couple algorithms a week keeps the developer's skills on fleek. This is a coll
 + [Sum of Even Fibonacci Numbers](fibonacci) 
 + [Greatest Stock Profit](apple_stocks) 
 + [Amicable Numbers](amicable_numbers) 
++ [Two Sum](two_sum) 
