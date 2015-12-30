@@ -26,7 +26,8 @@ imtgdvs fearwer mayoogo anouuio ntnnlvt wttddes aohghn sseoau
 You will be given a message in English with no spaces between the words. The maximum message length can be 81 characters. Print the encoded message.
 
 ##Language/Testing
-+ JavaScript -- To run the Jasmine tests, open the [JavaScriptSpecRunner](../JavaScriptSpecRunner.html) file in a browser.
++ Ruby -- Run the [RSpec File](encryption_spec.rb) file in the terminal.
+
 
 ###Source
 [HackerRank](https://www.hackerrank.com/challenges/encryption)
